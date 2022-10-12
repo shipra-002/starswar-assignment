@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: `https://swapi.py4e.com/api/people`,
+  baseURL: `https://swapi.dev/api/people/`,
 });
